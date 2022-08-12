@@ -1,0 +1,454 @@
+@media only screen and (max-width: 1927px) and (min-width: 1800px){
+    .carousel-caption {     
+        bottom: 11.25rem;
+    }
+
+    #carruselTexto {
+        margin: 3em;
+    }
+
+    #quiensoyimgA {      
+        margin: 3% 3%;
+        width: 29%;
+    }
+
+    #quiensoyImgB {
+   
+        width: 29%;
+    }
+}
+
+
+@media only screen and (max-width: 1195px){
+    .imgProductos {
+        width: 100%;
+    }
+
+    .tituloRopa {   
+        padding: 10px 25px;
+    }
+}
+
+@media only screen and (max-width: 1024px){
+   
+    .imgProductos{
+        width: 16em;
+    }
+    
+    .contenedorProducto {
+        width: 31%;
+    }
+
+    #carritoAbsolute {
+        padding-left: 58%;
+        z-index: 3;
+    }
+
+    .divTotal {
+        height: 14em;
+    }
+
+    .tituloRopa{
+        font-size: 20px;
+    }
+
+    .tituloA{
+        font-size: 47px;
+    }
+
+    .quiensoyText {
+       
+        font-size: 22px;
+    }
+
+}
+
+@media only screen and (max-width: 1069px){
+    .tituloRopa {
+        padding: 10px 13px;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 926px){
+
+    #carruselTexto{
+        margin: 0em;
+    }
+
+    .tituloA {
+        font-size: 42px;
+        margin-top: 17px;
+    }
+
+}
+
+@media only screen and (max-width: 831px){
+    .imgProductos {
+        width: 14em;
+    }
+
+}
+
+@media only screen and (max-width: 768px){
+    #subtitulo{
+      display: block;
+    }
+
+    #frase {
+        
+        font-size: 33px;
+        text-align: center;
+    }
+
+    @keyframes fraseanimacion {
+        0%{ font-size: 0px;    }
+        
+        90%{ opacity: 1;   }
+        100%{  font-size: 33px;opacity: 0;} 
+    }
+
+    #quiensoyImgB {       
+        right: 8%;
+        width: 54%;
+        transform: rotate(-10deg);
+    }
+
+    #quiensoyimgA {
+       
+        margin: 6% 5%;
+        width: 59%;
+    }
+
+    .tituloRopa {
+       
+        margin-top: 14px;
+      
+    }
+
+    #carritoAbsolute {
+        padding-left: 48%;
+    }
+}
+
+
+
+@media only screen and (max-width: 768px){
+    #productos {
+        width: 80%;
+    }
+
+    .imgProductos {
+        width: 17em;
+        margin: 6%;
+    }
+
+    .contenedorProducto {
+    width: 50%;}
+
+    .paddingSticky {
+        padding-top: 6em;
+    }
+}
+
+@media only screen and (max-width: 763px){
+    .imgProductos {
+        width: 12em;
+        margin: 2%;
+    }
+
+                                            
+}
+
+@media only screen and (max-width: 696px){
+
+    .enlaceCategoria {
+    
+        width: 6em;
+        font-size: 1em;
+        left: 6px;
+    }
+
+    .displayImg {
+       
+        flex-wrap: nowrap;
+    }
+
+    .contenedorProducto {
+        width: 48%;
+    }
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 480px){
+
+    .enlaceCategoria {
+    
+        width: 6em;
+        font-size: 1em;
+        left: 6px;
+    }
+
+    .displayImg {
+       
+        flex-wrap: nowrap;
+    }
+
+    #quiensoyimgA {
+        margin: 13% 4%;
+        width: 84%;
+    }
+
+    #quiensoyImgB {
+        right: 8%;
+        width: 77%;
+        transform: rotate(-10deg);
+    }
+
+    #carritoAbsolute {
+        padding-left: 38%;
+        height: 138em;
+    }
+    .quiensoyText {
+       
+        font-size: 21px;
+    }
+
+    #productos {
+        width: 95%;
+    }
+
+    .contenedorProducto {
+        width: 49%;
+    }
+
+    .tituloRopa {
+        font-size: 14px;
+    }
+
+    .tituloA {
+        font-size: 36px;
+       
+    }
+    
+    #productos {
+        height: 1976px;
+    }
+
+    .imgProductos {
+        width: 12em;
+        margin: 2%;
+    }
+
+    .divTotal {
+        height: 10em;
+    }
+
+
+    #frase {
+        font-size: 22px;
+    }
+
+    @keyframes fraseanimacion {
+        0%{ font-size: 0px;    }
+        
+        90%{ opacity: 1;   }
+        100%{  font-size: 22px;opacity: 0;} 
+    }
+}
+
+@media only screen and (max-width: 412px){
+
+
+    .enlaceCategoria {
+        width: 6em;
+        font-size: 2em;
+        left: 14px;
+    }
+    .displayImg {
+       
+        flex-wrap: wrap;
+    }
+
+    .imgCategoria {
+        width: 89%;
+        margin: 4%;
+    }
+
+   
+
+    #quiensoyImgB {
+        right: 12%;
+        width: 79%;
+    }
+
+    #quiensoyimgA {
+        margin: 6% 5%;
+        width: 80%;
+    }
+
+    .quiensoyText {
+       
+        font-size: 21px;
+    }
+
+    #contenedorQuiensoy {
+        padding: 32px 11px;
+    }
+
+    .quiensoyTextA {
+      
+        padding-left: 10px;
+        padding-right: 10px;
+        
+    }
+
+    #frase {
+        
+        font-size: 20px;
+        text-align: center;
+    }
+
+    @keyframes fraseanimacion {
+        0%{ font-size: 0px;    }
+        
+        90%{ opacity: 1;   }
+        100%{  font-size: 20px;opacity: 0;} 
+    }
+
+    #footer {
+       
+        margin-top: 20px;
+    }
+
+ 
+    .tituloA {
+        font-size: 30px;
+        font-weight: 300 !important;
+    }
+
+    #carritoAbsolute {
+        padding-left: 33%;
+        height: 131em;
+    }
+
+    #productos {
+        height: 1979px;
+    }
+
+    .imgProductos {
+        width: 12em;
+        margin: 1%;
+    }
+
+    
+
+    #carritoRelative {
+       
+        grid-template-columns: 3fr 3fr 4fr;
+    }
+
+    #contadorCarrito {
+        font-size: 20px;
+    }
+
+    #volver p {
+       
+        font-size: 13px;
+    }
+
+    .tituloRopa {
+        
+        padding: 10px 19px;
+    }
+
+}
+
+@media only screen and (max-width: 410px){
+    .imgProductos {
+        width: 10em;
+        margin: 1%;
+    }
+
+    .tituloRopa {
+        padding: 10px 2px;
+    }
+}
+
+
+@media only screen and (max-width: 360px){
+
+    .enlaceCategoria {
+      
+        left: 6px;
+    }
+
+    #carritoAbsolute {
+        padding-left: 33%;
+        height: 128em;
+    }
+
+    .imgCategoria {
+        width: 97%;
+        margin: 2%;
+    }
+
+    #footer p {
+    
+        font-size: 13px;
+    }
+
+    .imgProductos {
+        width: 10em;
+        margin: 2%;
+    }
+
+    .tituloA {
+      
+         padding: 0px 0px;
+         font-size: 26px;
+    }
+
+    .tituloRopa {
+        padding: 10px 1px;
+    }
+
+    #frase {
+        font-size: 17px;
+    }
+
+    @keyframes fraseanimacion {
+        0%{ font-size: 0px;    }
+        
+        90%{ opacity: 1;   }
+        100%{  font-size: 17px;opacity: 0;} 
+    }
+
+   
+}
+
+
+@media only screen and (max-width: 320px){
+    .tituloRopa {
+        padding: 4px 0px;
+    }
+
+    .tituloA {
+        padding: 0px 0px;
+        font-size: 23px;
+    }
+
+    .imgProductos {
+        width: 9em;
+        margin: 2%;
+    }
+
+}
