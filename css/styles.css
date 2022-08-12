@@ -258,7 +258,7 @@ body {
 #carritoRelative {
   position: relative;
   background: #dfdfb8ad;
-  height: 3em;
+  height: 4em;
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
   grid-template-rows: 0fr;
