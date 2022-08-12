@@ -4,7 +4,7 @@ const productos = [
         precio:170,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
         nombre:"Cafe colombian",
-        slug: "Galeria1",
+        slug: "galeria1",
 
         cantidad: 1,
     },
