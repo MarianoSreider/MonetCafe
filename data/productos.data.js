@@ -3,7 +3,7 @@ const productos = [
         categoria:1,
         precio:170,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"Cafe colombian",
+        nombre:"Colombian",
         slug: "galeria1",
 
         cantidad: 1,
@@ -12,8 +12,8 @@ const productos = [
         categoria:1,
         precio:120,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"CARDIGAN",
-        slug: "cardigan2",
+        nombre:"Peru",
+        slug: "galeria2",
         
         cantidad: 1,
     },
@@ -21,8 +21,17 @@ const productos = [
         categoria:1,
         precio:100,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"CHALECO CAMELIA",
-        slug: "chaleco",
+        nombre:"Nicaragua",
+        slug: "galeria3",
+        
+        cantidad: 1,
+    },
+    {
+        categoria:1,
+        precio:100,
+        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        nombre:"Japan",
+        slug: "galeria4",
         
         cantidad: 1,
     },
