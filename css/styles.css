@@ -140,90 +140,7 @@ body {
 .a:hover {
   transform: scale(1.2); }
 
-/* ///////////// */
-.buttom {
-  width: 130px;
-  margin-top: 4px; }
 
-#quienSoy {
-  display: none;
-  margin-top: 2em; }
-
-#contenedorQuiensoy {
-  padding: 35px 35px; }
-
-#quiesoyContenedorTextos {
-  background-color: #BD928B;
-  border: 3px solid #aa8f8b; }
-
-.quiensoyText {
-  padding: 10px 26px;
-  color: whitesmoke;
-  text-align: center;
-  font-size: 24px;
-  font-weight: 300 !important; }
-
-#quiensoyimgA {
-  /* z-index: 2; position: absolute; left: 34em; bottom: 7em;     transform: rotate(12deg); box-shadow: 9px 9px 5px #00000085; */
-  position: relative;
-  float: right;
-  margin: 2% 5%;
-  width: 40%;
-  transform: rotate(12deg);
-  z-index: 2;
-  box-shadow: 1px 6px 11px #000000bd; }
-
-#quiensoyImgB {
-  box-shadow: 1px 6px 11px #000000bd;
-  z-index: 1;
-  position: absolute;
-  right: 4%;
-  width: 40%;
-  transform: rotate(-4deg);
-  animation-name: lana;
-  animation-iteration-count: calc(7);
-  animation-timing-function: ease-in;
-  animation-duration: 1s;
-  animation-delay: 1s; }
-
-@keyframes lana {
-  0% {
-    transform: rotate(-4deg); }
-  50% {
-    transform: rotate(8deg); }
-  75% {
-    transform: rotate(3deg); }
-  87% {
-    transform: rotate(-1deg); }
-  100% {
-    transform: rotate(-4deg); } }
-
-#contenedorFrase {
-  display: flex;
-  justify-content: center;
-  height: 6em;
-  margin-top: 8%; }
-
-#frase {
-  font-family: cursive;
-  font-size: 42px;
-  color: #777953;
-  margin: 20px 0px;
-  display: none;
-  animation-name: fraseanimacion;
-  animation-iteration-count: calc(1);
-  animation-timing-function: ease-in-out;
-  animation-duration: 3s;
-  animation-delay: 2s; }
-
-@keyframes fraseanimacion {
-  0% {
-    font-size: 0px; }
-  90% {
-    opacity: 1; }
-  100% {
-    font-size: 50px;
-    opacity: 0; } }
 
 .fontA {
   padding: 10px 26px;
@@ -614,30 +531,6 @@ body {
   .imgCategoria {
     width: 89%;
     margin: 4%; }
-  #quiensoyImgB {
-    right: 12%;
-    width: 79%; }
-  #quiensoyimgA {
-    margin: 6% 5%;
-    width: 80%; }
-  .quiensoyText {
-    font-size: 21px; }
-  #contenedorQuiensoy {
-    padding: 32px 11px; }
-  .quiensoyTextA {
-    padding-left: 10px;
-    padding-right: 10px; }
-  #frase {
-    font-size: 20px;
-    text-align: center; }
-  @keyframes fraseanimacion {
-    0% {
-      font-size: 0px; }
-    90% {
-      opacity: 1; }
-    100% {
-      font-size: 20px;
-      opacity: 0; } }
   #footer {
     margin-top: 20px; }
   .tituloA {
@@ -686,16 +579,7 @@ body {
     font-size: 26px; }
   .tituloRopa {
     padding: 10px 1px; }
-  #frase {
-    font-size: 17px; }
-  @keyframes fraseanimacion {
-    0% {
-      font-size: 0px; }
-    90% {
-      opacity: 1; }
-    100% {
-      font-size: 17px;
-      opacity: 0; } } }
+  }
 
 @media only screen and (max-width: 320px) {
   .tituloRopa {
