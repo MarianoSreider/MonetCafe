@@ -58,37 +58,37 @@ const productos = [
 
     {
         categoria:2,
-        precio:70,
+        precio:400,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"TOP JAZMIN",
-        slug: "topJazmin",
+        nombre:"Torta Marquise",
+        slug: "galeria1",
         
         cantidad: 1,
     },
     {
         categoria:2,
-        precio:80,
+        precio:320,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"TOP MARBELLA",
-        slug: "topMarbella",
+        nombre:"Torta Marmolada",
+        slug: "galeria1",
         
         cantidad: 1,
     },
     {
         categoria:2,
-        precio:80,
+        precio:480,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"BIKINI SELVAGE",
-        slug: "bikiniSelvage",
+        nombre:"Torta Velvet",
+        slug: "galeria1",
         
         cantidad: 1,
     },
     {
         categoria:2,
-        precio:80,
+        precio:390,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"TOP LYRA",
-        slug: "topLyra",
+        nombre:"Torta Mousse",
+        slug: "galeria1",
         
         cantidad: 1,
     },
@@ -97,55 +97,55 @@ const productos = [
     
     {
         categoria:3,
-        precio:80,
+        precio:180,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"CARTERA AMAPOLA",
-        slug: "carteraAmapola",
+        nombre:"Filtro",
+        slug: "galeria2",
         
         cantidad: 1,
     },
     {
         categoria:3,
-        precio:80,
+        precio:1900,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"DIADEMAS",
-        slug: "diademas2",
+        nombre:"Cafetera",
+        slug: "galeria2",
         
         cantidad: 1,
     },
     {
         categoria:3,
-        precio:80,
+        precio:1020,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"MEDIAS",
-        slug: "medias",
+        nombre:"Molinillo",
+        slug: "galeria2",
         
         cantidad: 1,
     },
     {
         categoria:3,
-        precio:80,
+        precio:580,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"PILUSOS",
-        slug: "pilusos",
+        nombre:"Volturno",
+        slug: "galeria2",
         
         cantidad: 1,
     },
     {
         categoria:3,
-        precio:80,
+        precio:780,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"BOLSO PLAYERO",
-        slug: "bolsoPlayero",
+        nombre:"Vialetti",
+        slug: "galeria2",
         
         cantidad: 1,
     },
     {
         categoria:3,
-        precio:80,
+        precio:280,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"DISCOS",
-        slug: "discos",
+        nombre:"Taza",
+        slug: "galeria2",
         
         cantidad: 1,
     },

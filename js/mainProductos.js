@@ -93,7 +93,7 @@ function mostrarAlert(e, producto) {
 	Swal.fire({
 		title: "Agregaste un  producto al carrito",
 
-		imageUrl: "../images/regalo.png",
+		imageUrl: "../images/Logoprincipal.png",
 		imageWidth: 200,
 		imageHeight: 200,
 		imageAlt: "Custom image",
@@ -306,7 +306,7 @@ $("#myForm").on("submit", function (event) {
 				title: "Tus datos fueron ingresados =)",
 				text: "Te contactaremos a la brevedad",
 
-				imageUrl: "../images/ovillo.png",
+				imageUrl: "../images/Logoprincipal.png",
 				imageWidth: 225,
 				imageHeight: 175,
 				imageAlt: "Datos Ingresados",
