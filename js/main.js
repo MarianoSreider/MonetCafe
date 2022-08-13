@@ -77,7 +77,7 @@ function listarCategorias(){
 function enlaceHtml(idCategoria) {   
    sessionStorage.setItem("CATEGORIA", JSON.stringify(idCategoria));
    
-   window.location = "https://marianosreider.github.io/MonetCafe/productos.html";
+   window.location = "https://marianosreider.github.io/MonetCafe/pages/productos.html";
    
 }
 

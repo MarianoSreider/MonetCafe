@@ -1,7 +1,7 @@
 const productos = [
     {
         categoria:1,
-        precio:170,
+        precio:700,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
         nombre:"Colombian",
         slug: "galeria1",
@@ -10,7 +10,7 @@ const productos = [
     },
     {
         categoria:1,
-        precio:120,
+        precio:750,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
         nombre:"Peru",
         slug: "galeria2",
@@ -19,7 +19,7 @@ const productos = [
     },
     {
         categoria:1,
-        precio:100,
+        precio:890,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
         nombre:"Nicaragua",
         slug: "galeria3",
@@ -28,9 +28,27 @@ const productos = [
     },
     {
         categoria:1,
-        precio:100,
+        precio:920,
         descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
         nombre:"Japan",
+        slug: "galeria4",
+        
+        cantidad: 1,
+    },
+    {
+        categoria:1,
+        precio:950,
+        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        nombre:"China",
+        slug: "galeria4",
+        
+        cantidad: 1,
+    },
+    {
+        categoria:1,
+        precio:910,
+        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        nombre:"Brasil",
         slug: "galeria4",
         
         cantidad: 1,
